@@ -1,7 +1,8 @@
 # bluetooth controlled car
 ## Control the arduino car with android app build in MIT app inventor
 In project there are some features are added like speed control
-you can watch the video on youtube.
+you can watch the video on youtube. 
+project file of android app is also give you can make changes to it.
 
 Hardware Requirements
 + Arduino uno
